@@ -1,16 +1,25 @@
-## Hi there 👋
+# Introduction
 
-<!--
-**andrepontde/andrepontde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is André, and I am a junior developer with a robust foundation in Python, HTML, CSS, and Java. As I progress in my career, I am expanding my expertise towards the fascinating field of Artificial Intelligence. My aim is to harness my programming skills and passion for technology to contribute to innovative AI projects and stay at the cutting edge of technological advancements.
 
-Here are some ideas to get you started:
+## Skills and Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: 
+  - Python
+  - Java
+  - HTML
+  - CSS
+
+- **Currently Expanding Knowledge In**: 
+  - Artificial Intelligence (AI)
+  - Machine Learning (ML)
+
+
+## Contact Information
+
+Feel free to reach out to me through Linkedin for any inquiries.
+
+---
+
+Thank you for taking the time to learn more about me. I look forward to connecting with you!
+
