@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre</h1>
-<h3 align="center">A Computer Science Student from National College Of Ireland.</h3>
+<h3 align="center">A Computer Science Student from National College Of Ireland. I am a junior developer with a robust foundation in Python, Java and Web Development. I am expanding my expertise towards Artificial Intelligence. My aim is to mix my programming skills and passion for technology to contribute to AI projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrepontde&label=Profile%20views&color=0e75b6&style=flat" alt="andrepontde" /> </p>
 
