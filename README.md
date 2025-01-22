@@ -2,10 +2,6 @@
 <h3 align="center">A Computer Science Student from National College Of Ireland. I am a junior developer with a robust foundation in Python, Java and Web Development. I am expanding my expertise towards Artificial Intelligence. My aim is to mix my programming skills and passion for technology to contribute to AI projects.</h3>
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/andrepontde/count.svg?"  />
 </div>
 
@@ -55,3 +51,6 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/andrepontde/andrepontde/output/snake.svg" alt="Snake animation" />
+
+
+
