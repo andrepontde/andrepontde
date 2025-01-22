@@ -1,21 +1,18 @@
 <h1 align="center">Hi, I'm Andre 👋 </h1>
 <h3 align="center">A Computer Science Student from National College Of Ireland. I am a junior developer with a robust foundation in Python, Java and Web Development. I am expanding my expertise towards Artificial Intelligence. My aim is to mix my programming skills and passion for technology to contribute to AI projects.</h3>
-
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/andrepontde/count.svg?"  />
 </div>
 
+<br>
+
+<hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrepontde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrepontde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-
-<p align="center">
-<a href="https://linkedin.com/in/andre-pont-de-anda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-pont-de-anda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lucknt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lucknt" height="30" width="40" /></a>
-</p>
-
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -49,6 +46,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
-
+<br><hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrepontde" alt="andrepontde" /></a> </p>
 
