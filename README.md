@@ -1,6 +1,6 @@
 $ pip install andrepontde
 Collecting andrepontde
-Downloading https://andrepontde.dev/packages/andrepontde-1.0.0-py3-none-any.whl (249kB)
+Downloading andrepont-22.0.0.tar.gz (249kB)
      |████████████████████████████████| 256kB 6.4MB/s
 
 ```
