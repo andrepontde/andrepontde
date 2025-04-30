@@ -16,11 +16,10 @@ Downloading andrepont-22.0.0.tar.gz (249kB)
                                                                                                                                        
            Computer Science Student • Junior Developer • AI Enthusiast
 
-```
-❯ 🙍🏻‍♂️ About Me          andrepontde.dev/about
+❯ About Me          andrepontde.dev/about
 <p align="left">A Computer Science Student from National College Of Ireland. I am a junior developer with a robust foundation in Python, Java and Web Development. I am expanding my expertise towards Artificial Intelligence. My aim is to mix my programming skills and passion for technology to contribute to AI projects.</p><br>
 
-❯ 🛠️ What I Use
+❯ What I Use
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -52,3 +51,6 @@ Downloading andrepont-22.0.0.tar.gz (249kB)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div><br>
+
+```
+
