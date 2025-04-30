@@ -18,7 +18,10 @@ Downloading andrepont-22.0.0.tar.gz (249kB)
 
 $ py andrepontde_info.py
 
-A Computer Science Student from National College Of Ireland. I am a junior developer with a robust foundation in Python, Java and Web Development. I am expanding my expertise towards Artificial Intelligence. My aim is to mix my programming skills and passion for technology to contribute to AI projects.
+A Computer Science Student from National College Of Ireland. I am a junior
+developer with a robust foundation in Python, Java and Web Development. I
+am expanding my expertise towards Artificial Intelligence. My aim is to mix
+my programming skills and passion for technology to contribute to AI projects.
 
 ```
 
